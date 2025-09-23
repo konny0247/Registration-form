@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     padding: 0;
-    background-color: #0a021d;
+    background-color: #1b1b32;
     color: white;
 }
 h1 {
@@ -39,3 +39,8 @@ label {
 .inline {
     margin-left: 0.5em;
 }
+input {
+    background-color: #0a0a23;
+    border: 1 solid #0a0a23;
+}
+
