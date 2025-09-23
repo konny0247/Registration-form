@@ -45,5 +45,10 @@ input {
     color: #ffffff;
     min-height: 2em;
 }
+input [type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
 
 
