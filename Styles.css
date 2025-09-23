@@ -42,5 +42,8 @@ label {
 input {
     background-color: #0a0a23;
     border: 1 solid #0a0a23;
+    color: #ffffff;
+    min-height: 2em;
 }
+
 
